@@ -1,3 +1,4 @@
+alert("Zel Litol Moment JavaScript is running!");
 const DB_NAME='zel-litol-moment', DB_VERSION=1;let db;
 let currentProject={version:2,id:null,title:'My little scrapbook',pages:[blankPage()],activePage:0,updatedAt:new Date().toISOString()};
 let selectedId=null,pendingPhoto=null,cameraStream=null,deferredInstall=null,currentShelf='all';
