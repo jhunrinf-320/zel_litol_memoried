@@ -1,0 +1,11 @@
+{
+  "name": "Zel Litol Moment",
+  "short_name": "Zel Moment",
+  "description": "A cozy offline scrapbook and camera diary.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f8f3ec",
+  "theme_color": "#f7efe6",
+  "icons": [{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
